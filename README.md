@@ -27,37 +27,37 @@
   * Week 3: [SQL Operators and sorting and filtering data](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%203%20-%20SQL%20Operators%20and%20sorting%20and%20filtering%20data)
   * Week 4: [Database design](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%204%20-%20Database%20design)
   * Week 5: [Graded assessment](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%205%20-%20Graded%20assessment)
-- Course 5: [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)(Release Date: Oct 24th, 2022)
+- Course 5: [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)(Release Date: Nov 21st, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 6: [APIs](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer)(Release Date: Nov 4th, 2022)
+- Course 6: [APIs](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer)(Release Date: Dec 5th, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 7: [The Full Stack](https://www.coursera.org/learn/the-full-stack?specialization=meta-back-end-developer)(Release Date: Dec 12nd, 2022)
+- Course 7: [The Full Stack](https://www.coursera.org/learn/the-full-stack?specialization=meta-back-end-developer)(Release Date: Jan 2nd, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 8: [Cloud Computing](https://www.coursera.org/learn/meta-cloud-computing?specialization=meta-back-end-developer)(Release Date: Jan 5th, 2023)
+- Course 8: [Cloud Computing](https://www.coursera.org/learn/meta-cloud-computing?specialization=meta-back-end-developer)(Release Date: Jan 30th, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 9: [Back-End Developer Capstone](https://www.coursera.org/learn/back-end-developer-capstone?specialization=meta-back-end-developer#syllabus)(Release Date: Dec 18nd, 2022)
+- Course 9: [Back-End Developer Capstone](https://www.coursera.org/learn/back-end-developer-capstone?specialization=meta-back-end-developer#syllabus)(Release Date: Jan 9th, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5:
-- Course 10: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer)(Release Date: Dec 12nd, 2022)
+- Course 10: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer)(Release Date: Jan 30th, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
