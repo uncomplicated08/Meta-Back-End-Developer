@@ -5,6 +5,7 @@
 - This repo contains all of my assignments, demos, and cheat sheets from the 10 courses in the Coursera Professional Certificate: [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
 ## Table of Content
+
 - Course 1: [Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer)
   * Week 1: [Get started with web development](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development)
   * Week 2: [Introduction to HTML and CSS](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS)
@@ -63,3 +64,12 @@
   * Week 3: 
   * Week 4: 
   * Week 5:
+
+## Proof of Completion
+
+- Not Available
+
+## See also
+
+- My [Meta-Front-End-Developer](https://github.com/ginny100/Meta-Front-End-Developer) repository
+- My [Meta-Database-Engineer](https://github.com/ginny100/Meta-Database-Engineer) repository
