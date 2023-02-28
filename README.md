@@ -69,5 +69,4 @@
 
 ## Proof of Completion
 
-- Not Available
-
+- https://coursera.org/verify/professional-cert/LFFAUQJF4PG4
