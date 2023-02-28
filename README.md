@@ -65,5 +65,8 @@
 
 ## Proof of Completion
 
-- [![Certificate Link](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~LFFAUQJF4PG4/CERTIFICATE_LANDING_PAGE~LFFAUQJF4PG4.jpeg)](https://coursera.org/verify/professional-cert/LFFAUQJF4PG4)
+<a href="https://coursera.org/verify/professional-cert/LFFAUQJF4PG4">
+   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~LFFAUQJF4PG4/CERTIFICATE_LANDING_PAGE~LFFAUQJF4PG4.jpeg" alt="Cert" >
+</a>
+
 
