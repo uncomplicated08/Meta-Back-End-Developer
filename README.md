@@ -29,8 +29,8 @@
   * Week 4: [Database design](https://github.com/uncomplicated08/Meta-Back-End-Developer/tree/master/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%204%20-%20Database%20design)
   * Week 5: [Graded assessment](https://github.com/uncomplicated08/Meta-Back-End-Developer/tree/master/Course%204%20-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week%205%20-%20Graded%20assessment)
 - Course 5: [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer) (Release Date: Nov 21st, 2022)
-  * Week 1: 
-  * Week 2: 
+  * Week 1: [Module Quiz: Introduction to Django](https://github.com/uncomplicated08/Meta-Back-End-Developer/blob/master/Course%205%20-%20Django%20Web%20Framework/Module%20Quiz%20-%20Introduction%20to%20Django.png)
+  * Week 2: [Module Quiz - Views](https://github.com/uncomplicated08/Meta-Back-End-Developer/blob/master/Course%205%20-%20Django%20Web%20Framework/Module%20Quiz%20-%20Views.png)
   * Week 3: 
   * Week 4: 
   * Week 5: 
