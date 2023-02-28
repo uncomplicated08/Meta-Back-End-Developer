@@ -2,7 +2,8 @@
 
 <img src="./meta-logo.png" width=150>
 
-- This repo contains all of my assignments, demos, and cheat sheets from the 10 courses in the Coursera Professional Certificate: [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
+- This has been forked from ginn100's repo of Dec 7, 2022 update. At the time of Fork, only first 4 courses were completed by Ginny and updated on repo.
+- The remaining courses will be shortly updated based on my assignments and coursework data.on  contains all of my assignments, demos, and cheat sheets from the 10 courses in the Coursera Professional Certificate: [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
 ## Table of Content
 
