@@ -48,19 +48,15 @@
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 8: [Cloud Computing](https://www.coursera.org/learn/meta-cloud-computing?specialization=meta-back-end-developer) (Release Date: Jan 30th, 2023)
-  * Week 1: 
-  * Week 2: 
-  * Week 3: 
-  * Week 4: 
-  * Week 5: 
-- Course 9: [Back-End Developer Capstone](https://www.coursera.org/learn/back-end-developer-capstone?specialization=meta-back-end-developer#syllabus) (Release Date: Jan 9th, 2023)
+- ~~Course: [Cloud Computing](https://www.coursera.org/learn/meta-cloud-computing?specialization=meta-back-end-developer) (Release Date: Jan 30th, 2023)~~
+  * this course is no longer in the Specialization.
+- Course 8: [Back-End Developer Capstone](https://www.coursera.org/learn/back-end-developer-capstone?specialization=meta-back-end-developer#syllabus) (Release Date: Jan 9th, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5:
-- Course 10: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer) (Release Date: Jan 30th, 2023)
+- Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer) (Release Date: Jan 30th, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
